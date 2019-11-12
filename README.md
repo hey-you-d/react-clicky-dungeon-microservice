@@ -2,7 +2,8 @@
 
 The backend of react-clicky-dungeon web app powered by Lumen Framework. 
 
-Status: WIP
+Note: 
+this is a local dev source code which is only meant to run on localhost. Deploying to remote hosting such as AWS would require some adjustments beforehand. 
 
 # Lumen PHP Framework
 
